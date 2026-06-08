@@ -45,7 +45,7 @@ Accessed via GDC Data Portal (open access)
 
 ## How to Run
 1. Install required packages 
-2. Run analysis.R in RStudio sequentially
+2. Run TCGA-LUAD-Cancer-Mutation-Analysis.txt in RStudio sequentially
 3. Plots saved to working directory
 
 ## Author
