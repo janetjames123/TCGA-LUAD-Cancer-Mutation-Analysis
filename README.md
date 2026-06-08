@@ -44,7 +44,7 @@ The Cancer Genome Atlas (TCGA) — TCGA-LUAD project
 Accessed via GDC Data Portal (open access)
 
 ## How to Run
-1. Install required packages (see analysis.R)
+1. Install required packages 
 2. Run analysis.R in RStudio sequentially
 3. Plots saved to working directory
 
